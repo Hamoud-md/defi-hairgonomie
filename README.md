@@ -4,7 +4,7 @@
 
 | Lien | Statut |
 |---|---|
-| Dépôt GitHub | _À renseigner par l'équipe après publication (aucune URL inventée)_ |
+| Dépôt GitHub | https://github.com/Hamoud-md/defi-hairgonomie |
 | Rendu consultable | _À renseigner après déploiement statique (voir « Déployer »)_ |
 
 Démonstration **autonome** : aucun compte, aucun serveur, aucune API, aucune donnée envoyée. Le contenu (« Préparer ma participation à un atelier numérique ») est **synthétique et fictif** : aucun atelier réel, aucune inscription, aucune place n'est promise.
