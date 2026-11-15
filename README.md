@@ -5,7 +5,8 @@
 | Lien | Statut |
 |---|---|
 | Dépôt GitHub | https://github.com/Hamoud-md/defi-hairgonomie |
-| Rendu consultable | _À renseigner après déploiement statique (voir « Déployer »)_ |
+| Rendu Vercel (Production) | https://defi-hairgonomie-iota.vercel.app |
+| Rendu Render (Production) | https://defi-hairgonomie.onrender.com |
 
 Démonstration **autonome** : aucun compte, aucun serveur, aucune API, aucune donnée envoyée. Le contenu (« Préparer ma participation à un atelier numérique ») est **synthétique et fictif** : aucun atelier réel, aucune inscription, aucune place n'est promise.
 
